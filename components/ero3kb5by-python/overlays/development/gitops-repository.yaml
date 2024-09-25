@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ero3kb5by-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ero3kb5by-python-gitops
